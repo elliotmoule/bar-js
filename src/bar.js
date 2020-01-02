@@ -3,11 +3,11 @@
  * bar.js
  * simple, elegant, bar chart library
  * 02/01/2020 - version 1.0
- * https://github.com/elliotmoule/learn_html5_canvas
+ * https://github.com/elliotmoule/bar-js
  * 
- * Copyright 2017 Elliot Moule
+ * Copyright 2020 Elliot Moule
  * Released under the MIT License
- * https://github.com/elliotmoule/learn_html5_canvas/blob/master/LICENSE
+ * https://github.com/elliotmoule/bar-js/blob/master/LICENSE.md
  * 
  */
 
