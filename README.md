@@ -2,7 +2,8 @@
 Lightweight, configurable, and simple, bar chart library in JavaScript.
 
 [![GitHub license](https://img.shields.io/github/license/elliotmoule/bar-js)](https://github.com/elliotmoule/bar-js/blob/master/LICENSE.md)
-[![Codacy grade](https://img.shields.io/codacy/grade/e27821fb6289410b8f58338c7e0bc686.svg)]()
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/elliotmoule/bar-js)
+![GitHub top language](https://img.shields.io/github/languages/top/elliotmoule/bar-js)
 
 
 ## Description
